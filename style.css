@@ -1,0 +1,39 @@
+ body{
+    height: 6000px;
+ }
+ .nav-link.active{
+
+    color: #b3b600;
+   
+
+}
+.nav-link{
+    color: red;
+}
+.nav-link:hover{
+    background-color: chocolate;
+}
+.Service{
+    background-color: blanchedalmond;
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+
+
+.card .card-title{
+    color: rgb(255, 0, 0);
+    text-align: center;
+}
+
+.card .Loka{
+    color: blue;
+    
+}
+
+.form{
+    width: 500px;
+    margin: auto;
+}
+
